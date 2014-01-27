@@ -12,6 +12,6 @@
  }
  
  // capitalize all words
- $title = ucwords($title);
+  $title = ucwords($title);
  
  ?>
